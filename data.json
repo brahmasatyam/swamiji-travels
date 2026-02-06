@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Belur Math, West Bengal",
+    "coords": [22.6327, 88.3526],
+    "desc": "Headquarters of Ramakrishna Math and Mission[cite: 66].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Belur_Math_Main_Temple.jpg/400px-Belur_Math_Main_Temple.jpg"
+  },
+  {
+    "name": "Varanasi, Uttar Pradesh",
+    "coords": [25.3176, 82.9739],
+    "desc": "A major center of his early wanderings[cite: 56].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Varanasi_Ghats.jpg/400px-Varanasi_Ghats.jpg"
+  },
+  {
+    "name": "Alwar, Rajasthan",
+    "coords": [27.5530, 76.6346],
+    "desc": "Where he stayed during his Parivrajaka days[cite: 56].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Alwar_City_Palace.jpg/400px-Alwar_City_Palace.jpg"
+  },
+  {
+    "name": "Khetri, Rajasthan",
+    "coords": [27.9821, 75.7834],
+    "desc": "Where he took the name 'Vivekananda'[cite: 56].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Khetri_Fort.jpg/400px-Khetri_Fort.jpg"
+  },
+  {
+    "name": "Kanyakumari, Tamil Nadu",
+    "coords": [8.0883, 77.5385],
+    "desc": "Where he meditated on the mid-sea rock[cite: 56].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Vivekananda_Rock_Memorial_Kanyakumari.jpg/400px-Vivekananda_Rock_Memorial_Kanyakumari.jpg"
+  },
+  {
+    "name": "Chicago, USA",
+    "coords": [41.8781, -87.6298],
+    "desc": "Site of the 1893 Parliament of Religions[cite: 66].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Swami_Vivekananda_at_Parliament_of_Religions.jpg/400px-Swami_Vivekananda_at_Parliament_of_Religions.jpg"
+  },
+  {
+    "name": "London, UK",
+    "coords": [51.5074, -0.1278],
+    "desc": "He gave several lectures here, including 'Steps to Realisation' circa 1896[cite: 65].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/400px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg"
+  },
+  {
+    "name": "Los Angeles, California",
+    "coords": [34.0522, -118.2437],
+    "desc": "Gave famous lectures like 'The Powers of the Mind' (Jan 8, 1900) and 'Hints on Practical Spirituality' (Mar 2, 1900)[cite: 65].",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L.A._City_Hall_at_night.jpg/400px-L.A._City_Hall_at_night.jpg"
+  }
+]

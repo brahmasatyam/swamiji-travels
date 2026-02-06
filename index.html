@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vivekananda Travels</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        #map { height: 600px; width: 100%; border-radius: 8px; border: 1px solid #ccc; }
+        
+        /* Popup Styling */
+        .custom-popup img { width: 100%; height: auto; border-radius: 4px; margin-top: 5px; }
+        
+        /* Custom Icon Styling */
+        .circular-marker {
+            border: 2px solid #FFD700;
+            border-radius: 50%;
+            background-color: white;
+            box-shadow: 0 0 5px rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body>
+    <h2>The Travels of Swami Vivekananda</h2>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
