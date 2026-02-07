@@ -19,10 +19,24 @@
             background-color: white;
             box-shadow: 0 0 5px rgba(0,0,0,0.5);
         }
+        /* Add this to your style section in index.html */
+            .leaflet-popup-content {
+            max-height: 400px;  /* Limits the height */
+            overflow-y: auto;   /* Adds a scrollbar if the text is too long */
+            padding-right: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .leaflet-popup-content h3 {
+            color: #FF4500;
+            border-bottom: 2px solid #FFD700;
+            padding-bottom: 5px;
+        }
     </style>
 </head>
 <body>
-    <h2>The Travels of Swami Vivekananda</h2>
+    <h2>Viveka Digvijaya: Colombo to Almora</h2>
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>

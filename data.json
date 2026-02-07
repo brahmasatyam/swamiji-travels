@@ -1,50 +1,70 @@
 [
   {
-    "name": "Belur Math, West Bengal",
-    "coords": [22.6327, 88.3526],
-    "desc": "Headquarters of Ramakrishna Math and Mission[cite: 66].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Belur_Math_Main_Temple.jpg/400px-Belur_Math_Main_Temple.jpg"
+    "name": "Colombo, Sri Lanka",
+    "coords": [6.9271, 79.8612],
+    "date": "Jan 15, 1897",
+    "desc": "### Lecture: Vedantism\n\n**The Universal Science:** In Jaffna, Swamiji addressed an audience of diverse backgrounds, presenting Vedanta not as a sectarian religion, but as a universal science of the soul. He began by tracing the history of religious thought in India, explaining how the Upanishads form the common basis for all Indian schools of thought—Dualist, Qualified Non-Dualist, and Monist. He argued that the word 'Hindu' is technically a misnomer; the more accurate term is 'Vedantist.' \n\n**Breaking Superstition:** A large portion of this 500-word discourse was dedicated to purging religion of its 'weeds.' He critiqued the obsession with 'don't-touchism' and minor rituals that had overshadowed the grand truths of the Vedas. He urged the people of Jaffna to look beyond the 'kitchen religion' and realize the infinite nature of the 'Atman.' He taught that every soul is potentially divine and that the goal of life is to manifest this divinity by controlling nature, external and internal. \n\n**Unity in Diversity:** He explained that Vedanta is the only philosophy capable of reconciling the various religions of the world because it accepts the 'evolution of the religious idea.' Just as a child's understanding of the sun is different from a scientist's, yet both refer to the same sun, all religions are different stages of the soul’s journey toward the same Truth. He concluded with a call for 'strength.' He asserted that anything that makes you weak—physically, intellectually, or spiritually—should be rejected as poison. This lecture was a masterpiece of logical synthesis, bridging the gap between ancient scripture and modern scientific inquiry.",    "img": "Swamiji1.jpeg"
   },
   {
-    "name": "Varanasi, Uttar Pradesh",
-    "coords": [25.3176, 82.9739],
-    "desc": "A major center of his early wanderings[cite: 56].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Varanasi_Ghats.jpg/400px-Varanasi_Ghats.jpg"
+    "name": "Jaffna, Sri Lanka",
+    "coords": [9.6615, 80.0255],
+    "date": "Jan 24, 1897",
+    "desc": "Delivered a lecture on 'Vedantism' before departing for the Indian mainland.",
+    "img": "Swamiji2.jpg"
   },
   {
-    "name": "Alwar, Rajasthan",
-    "coords": [27.5530, 76.6346],
-    "desc": "Where he stayed during his Parivrajaka days[cite: 56].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Alwar_City_Palace.jpg/400px-Alwar_City_Palace.jpg"
+    "name": "Pamban, Tamil Nadu",
+    "coords": [9.2789, 79.2236],
+    "date": "Jan 26, 1897",
+    "desc": "Landed on Indian soil. The Raja of Ramnad himself helped pull Swamiji's carriage.",
+    "img": "Swamiji3.jpeg"
   },
   {
-    "name": "Khetri, Rajasthan",
-    "coords": [27.9821, 75.7834],
-    "desc": "Where he took the name 'Vivekananda'[cite: 56].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Khetri_Fort.jpg/400px-Khetri_Fort.jpg"
+    "name": "Rameswaram, Tamil Nadu",
+    "coords": [9.2881, 79.3174],
+    "date": "Jan 27, 1897",
+    "desc": "Lecture at the Shiva Temple: 'Real Worship'. He emphasized that serving the poor is the highest worship.",
+    "img": "Swamiji3.jpeg"
   },
   {
-    "name": "Kanyakumari, Tamil Nadu",
-    "coords": [8.0883, 77.5385],
-    "desc": "Where he meditated on the mid-sea rock[cite: 56].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Vivekananda_Rock_Memorial_Kanyakumari.jpg/400px-Vivekananda_Rock_Memorial_Kanyakumari.jpg"
+    "name": "Ramnad, Tamil Nadu",
+    "coords": [9.3622, 78.8395],
+    "date": "Jan 29, 1897",
+    "desc": "Delivered a major address in reply to the welcome by the Raja of Ramnad.",
+    "img": "Swamiji3.jpeg"
   },
   {
-    "name": "Chicago, USA",
-    "coords": [41.8781, -87.6298],
-    "desc": "Site of the 1893 Parliament of Religions[cite: 66].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Swami_Vivekananda_at_Parliament_of_Religions.jpg/400px-Swami_Vivekananda_at_Parliament_of_Religions.jpg"
+    "name": "Madurai, Tamil Nadu",
+    "coords": [9.9252, 78.1198],
+    "date": "Feb 2, 1897",
+    "desc": "Visited the Meenakshi Temple and spoke on the 'Mission of the Vedanta'.",
+    "img": "Swamiji3.jpeg"
   },
   {
-    "name": "London, UK",
-    "coords": [51.5074, -0.1278],
-    "desc": "He gave several lectures here, including 'Steps to Realisation' circa 1896[cite: 65].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/400px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg"
+    "name": "Kumbakonam, Tamil Nadu",
+    "coords": [10.9602, 79.3845],
+    "date": "Feb 3, 1897",
+    "desc": "Delivered the famous lecture 'Vedanta in its Application to Indian Life'.",
+    "img": "Swamiji3.jpeg"
   },
   {
-    "name": "Los Angeles, California",
-    "coords": [34.0522, -118.2437],
-    "desc": "Gave famous lectures like 'The Powers of the Mind' (Jan 8, 1900) and 'Hints on Practical Spirituality' (Mar 2, 1900)[cite: 65].",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L.A._City_Hall_at_night.jpg/400px-L.A._City_Hall_at_night.jpg"
+    "name": "Chennai (Madras), Tamil Nadu",
+    "coords": [13.0827, 80.2707],
+    "date": "Feb 6-15, 1897",
+    "desc": "<h4>Lecture: My Plan of Campaign</h4><p>Swamiji’s stay in Madras was the intellectual climax of his return journey...</p><ul><li><b>The Call to Youth:</b> He demanded muscles of iron and nerves of steel.</li><li><b>National Awakening:</b> He introduced the concept of Root-and-Branch Reform.</li></ul><p>He famously said, 'Teach the masses their own dignity'...</p>",
+    "img": "Swamiji3.jpeg"},
+
+  {
+    "name": "Sealdah, Kolkata",
+    "coords": [22.5671, 88.3709],
+    "date": "Feb 19, 1897",
+    "desc": "### Lecture: The Address of Welcome\n\n**The Hero's Homecoming:** Returning to his birthplace, Swamiji was met with unparalleled emotion. In this address, he spoke not as a world-conqueror, but as a son of the soil. He began by defining the greatness of the Bengali mind but warned against its tendency toward 'jealousy' and 'lack of organization.' He argued that for India to rise, its people must learn to work together like a single machine, sacrificing individual ego for the collective good. \n\n**Spiritual Logic:** He revisited the Parliament of Religions, explaining that his success in the West was not a personal victory but a victory for the Sanatana Dharma. He explained that the West is weary of materialism and is looking toward the East for the 'water of life.' However, he warned that India cannot give what she does not possess; therefore, Indians must first reclaim their own spiritual heritage. \n\n**Practical Vedanta:** He expanded on 'Practical Vedanta,' explaining that the high philosophy of the Upanishads must be brought down to the kitchen, the marketplace, and the schoolhouse. He challenged the scholars of Kolkata to stop debating abstract logic and start feeding the hungry. He proclaimed that 'the only God that exists, the only God I believe in... is the sum total of all souls; and above all, my God the wicked, my God the miserable, my God the poor of all races.' This lecture was the foundational stone for the formal inauguration of the Ramakrishna Mission in Kolkata shortly thereafter. It marked the transition of his movement from a series of lectures into a structured, permanent institution dedicated to 'Atmano Mokshartham Jagat Hitaya Cha'—for one's own liberation and for the welfare of the world.",    "img": "Swamiji3.jpeg"
+  },
+  {
+    "name": "Almora, Uttarakhand",
+    "coords": [29.5892, 79.6467],
+    "date": "May 11, 1897",
+    "desc": "Final destination of this tour. He spoke on 'Vedic Teaching in Theory and Practice' in the Himalayas.",
+    "img": "Swamiji3.jpeg"
   }
 ]
